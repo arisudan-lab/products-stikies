@@ -1,5 +1,61 @@
 [
     {
+        "id": 138,
+        "name": "Retro JDM Car Poster",
+        "image": "stickers/138.webp",
+        "price": 19,
+        "sheet_no": "sheet_4"
+    },
+    {
+        "id": 139,
+        "name": "Retro JDM Magazine Cover",
+        "image": "stickers/139.webp",
+        "price": 19,
+        "sheet_no": "sheet_4"
+    },
+    {
+        "id": 140,
+        "name": "Blue Skyline GTR",
+        "image": "stickers/140.webp",
+        "price": 19,
+        "sheet_no": "sheet_4"
+    },
+    {
+        "id": 141,
+        "name": "Black Muscle Car Front",
+        "image": "stickers/141.webp",
+        "price": 19,
+        "sheet_no": "sheet_4"
+    },
+    {
+        "id": 142,
+        "name": "Red NSX Sports Car",
+        "image": "stickers/142.webp",
+        "price": 19,
+        "sheet_no": "sheet_4"
+    },
+    {
+        "id": 143,
+        "name": "LBWK Nissan GTR-R35",
+        "image": "stickers/143.webp",
+        "price": 19,
+        "sheet_no": "sheet_4"
+    },
+    {
+        "id": 144,
+        "name": "Skyline Text Graphic",
+        "image": "stickers/144.webp",
+        "price": 19,
+        "sheet_no": "sheet_4"
+    },
+    {
+        "id": 145,
+        "name": "Vintage Car Duo",
+        "image": "stickers/145.webp",
+        "price": 19,
+        "sheet_no": "sheet_4"
+    },
+    {
         "id": 127,
         "name": "Pink Anime Tram",
         "image": "stickers/127.webp",
