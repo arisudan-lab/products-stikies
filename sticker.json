@@ -1,7 +1,63 @@
 [
     {
+        "id": 146,
+        "name": "I Win Star",
+        "image": "stickers/146.webp",
+        "price": 10,
+        "sheet_no": "sheet_4"
+    },
+    {
+        "id": 147,
+        "name": "Delulu Is The Solulu",
+        "image": "stickers/147.webp",
+        "price": 10,
+        "sheet_no": "sheet_4"
+    },
+    {
+        "id": 148,
+        "name": "Adobe Creative",
+        "image": "stickers/148.webp",
+        "price": 10,
+        "sheet_no": "sheet_4"
+    },
+    {
+        "id": 149,
+        "name": "Designer",
+        "image": "stickers/149.webp",
+        "price": 10,
+        "sheet_no": "sheet_4"
+    },
+    {
+        "id": 150,
+        "name": "Blue Flower",
+        "image": "stickers/150.webp",
+        "price": 10,
+        "sheet_no": "sheet_4"
+    },
+    {
+        "id": 151,
+        "name": "Stay Grounded",
+        "image": "stickers/151.webp",
+        "price": 10,
+        "sheet_no": "sheet_4"
+    },
+    {
+        "id": 152,
+        "name": "New Day With Infinity",
+        "image": "stickers/152.webp",
+        "price": 10,
+        "sheet_no": "sheet_4"
+    },
+    {
+        "id": 153,
+        "name": "Brain Update",
+        "image": "stickers/153.webp",
+        "price": 10,
+        "sheet_no": "sheet_4"
+    },
+    {
         "id": 138,
-        "name": "Retro JDM Car Poster",
+        "name": "Retro JDM Car",
         "image": "stickers/138.webp",
         "price": 10,
         "sheet_no": "sheet_4"
